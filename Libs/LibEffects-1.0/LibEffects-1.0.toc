@@ -1,0 +1,8 @@
+## Interface: 60200
+## Title: Lib: LibEffects-1.0
+## Notes: Library for providing effects.
+## Author: Idunno on Hellscream US
+## Version: v1.0.1
+
+LibStub\LibStub.lua
+lib.xml
